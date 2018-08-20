@@ -12,6 +12,18 @@ public class ChangeScene : MonoBehaviour {
 
         SceneManager.LoadScene("AgregarObjetos");
     }
-     		
-	}
+
+    public void Salir()
+    {
+
+        SceneManager.LoadScene("Intro");
+    }
+
+    public void CerrarApp()
+    {
+
+        Application.Quit();
+    }
+
+}
 
