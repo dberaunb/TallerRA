@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: bb18414ec6ab2794cb088bedf0ec5440
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebrazo_D
+    100002: Antebrazo_I
+    100004: Bone
+    100006: Bone_001
+    100008: Bone_005
+    100010: Bone_009
+    100012: Bone_010
+    100014: Bone_011
+    100016: Bone_012
+    100018: Bone_013
+    100020: Bone_014
+    100022: Bone_016
+    100024: Bone_017
+    100026: Bone_018
+    100028: Bone_019
+    100030: Bone_020
+    100032: Bone_021
+    100034: Bone_022
+    100036: Bone_023
+    100038: Bone_024
+    100040: Bone_025
+    100042: Brazo_D
+    100044: Brazo_I
+    100046: Cabeza
+    100048: cuerpo___cara-highpolyeyes
+    100050: cuerpo___cara-male_muscle_13290
+    100052: cuerpo___cara-teeth_base
+    100054: Esqueleto
+    100056: //RootNode
+    100058: Mano_D
+    100060: Mano_I
+    400000: Antebrazo_D
+    400002: Antebrazo_I
+    400004: Bone
+    400006: Bone_001
+    400008: Bone_005
+    400010: Bone_009
+    400012: Bone_010
+    400014: Bone_011
+    400016: Bone_012
+    400018: Bone_013
+    400020: Bone_014
+    400022: Bone_016
+    400024: Bone_017
+    400026: Bone_018
+    400028: Bone_019
+    400030: Bone_020
+    400032: Bone_021
+    400034: Bone_022
+    400036: Bone_023
+    400038: Bone_024
+    400040: Bone_025
+    400042: Brazo_D
+    400044: Brazo_I
+    400046: Cabeza
+    400048: cuerpo___cara-highpolyeyes
+    400050: cuerpo___cara-male_muscle_13290
+    400052: cuerpo___cara-teeth_base
+    400054: Esqueleto
+    400056: //RootNode
+    400058: Mano_D
+    400060: Mano_I
+    2100000: DefaultSkin
+    2100002: teethMaterial
+    2100004: Eye_brown
+    4300000: cuerpo___cara-male_muscle_13290
+    4300002: cuerpo___cara-teeth_base
+    4300004: cuerpo___cara-highpolyeyes
+    7400000: Default Take
+    7400002: Hablar
+    7400004: Hablar (1)
+    9500000: //RootNode
+    13700000: cuerpo___cara-highpolyeyes
+    13700002: cuerpo___cara-male_muscle_13290
+    13700004: cuerpo___cara-teeth_base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hablar (1)
+      takeName: Hablar
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hablar
+      takeName: Hablar
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
