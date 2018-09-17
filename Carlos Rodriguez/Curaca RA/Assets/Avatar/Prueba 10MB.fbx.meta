@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 24da23b94e63d024bbfa223c7025bb27
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebrazo D
+    100002: Antebrazo I
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.005
+    100010: Bone.009
+    100012: Bone.010
+    100014: Bone.011
+    100016: Bone.012
+    100018: Bone.013
+    100020: Bone.014
+    100022: Bone.016
+    100024: Bone.016_end
+    100026: Bone.017
+    100028: Bone.018
+    100030: Bone.018_end
+    100032: Bone.019
+    100034: Bone.019_end
+    100036: Bone.020
+    100038: Bone.021
+    100040: Bone.021_end
+    100042: Bone.022
+    100044: Bone.022_end
+    100046: Bone.023
+    100048: Bone.023_end
+    100050: Bone.024
+    100052: Bone.024_end
+    100054: Bone.025
+    100056: Bone.025_end
+    100058: Brazo D
+    100060: Brazo I
+    100062: Cabeza
+    100064: Camera
+    100066: cuerpo_+_cara-highpolyeyes
+    100068: cuerpo_+_cara-male_muscle_13290
+    100070: cuerpo_+_cara-teeth_base
+    100072: Esqueleto
+    100074: Lamp
+    100076: Mano D
+    100078: Mano D_end
+    100080: Mano I
+    100082: Mano I_end
+    100084: //RootNode
+    100086: ropavs10.001
+    400000: Antebrazo D
+    400002: Antebrazo I
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.005
+    400010: Bone.009
+    400012: Bone.010
+    400014: Bone.011
+    400016: Bone.012
+    400018: Bone.013
+    400020: Bone.014
+    400022: Bone.016
+    400024: Bone.016_end
+    400026: Bone.017
+    400028: Bone.018
+    400030: Bone.018_end
+    400032: Bone.019
+    400034: Bone.019_end
+    400036: Bone.020
+    400038: Bone.021
+    400040: Bone.021_end
+    400042: Bone.022
+    400044: Bone.022_end
+    400046: Bone.023
+    400048: Bone.023_end
+    400050: Bone.024
+    400052: Bone.024_end
+    400054: Bone.025
+    400056: Bone.025_end
+    400058: Brazo D
+    400060: Brazo I
+    400062: Cabeza
+    400064: Camera
+    400066: cuerpo_+_cara-highpolyeyes
+    400068: cuerpo_+_cara-male_muscle_13290
+    400070: cuerpo_+_cara-teeth_base
+    400072: Esqueleto
+    400074: Lamp
+    400076: Mano D
+    400078: Mano D_end
+    400080: Mano I
+    400082: Mano I_end
+    400084: //RootNode
+    400086: ropavs10.001
+    2000000: Camera
+    2100000: DefaultSkin
+    2100002: teethMaterial
+    2100004: Material7038.001
+    2100006: Eye_brown
+    2300000: ropavs10.001
+    3300000: ropavs10.001
+    4300000: cuerpo_+_cara-male_muscle_13290
+    4300002: cuerpo_+_cara-teeth_base
+    4300004: ropavs10.001
+    4300006: cuerpo_+_cara-highpolyeyes
+    7400000: Esqueleto|Hablar
+    7400002: Esqueleto|ropa_adelanteAction
+    7400004: Esqueleto|ropa_adelanteAction.001
+    7400006: Esqueleto|ropa_atrasAction
+    7400008: Esqueleto|ropa_atrasAction.001
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: cuerpo_+_cara-highpolyeyes
+    13700002: cuerpo_+_cara-male_muscle_13290
+    13700004: cuerpo_+_cara-teeth_base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
