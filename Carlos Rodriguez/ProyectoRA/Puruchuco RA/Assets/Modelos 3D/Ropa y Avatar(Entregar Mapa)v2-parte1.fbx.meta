@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 3d7e20d2b45346d4eae5ffa1f59789ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebrazo D
+    100002: Antebrazo I
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.005
+    100014: Bone.009
+    100016: Bone.010
+    100018: Bone.016
+    100020: Bone.019
+    100022: Bone.024
+    100024: Bone.025
+    100026: Bone.025_end
+    100028: Bone.026
+    100030: Bone.026_end
+    100032: Brazo D
+    100034: Brazo I
+    100036: Camera
+    100038: Camera.001
+    100040: Cuello
+    100042: cuerpoMesh
+    100044: Esqueleto
+    100046: Esqueleto.001
+    100048: Esqueleto.002
+    100050: high-polyMesh
+    100052: Labio I
+    100054: Labio I_end
+    100056: Labio S
+    100058: Labio S_end
+    100060: Mano D
+    100062: Mano D_end
+    100064: Mano I
+    100066: Mano I_end
+    100068: Muslo D
+    100070: Muslo I
+    100072: Pierna D
+    100074: Pierna D.001
+    100076: Pierna D.002
+    100078: Pierna D.002_end
+    100080: Pierna I
+    100082: Pierna I.001
+    100084: Pierna I.002
+    100086: Pierna I.002_end
+    100088: //RootNode
+    100090: Sol
+    100092: teeth_baseMesh
+    100094: vestimentaFinalvs3.001
+    400000: Antebrazo D
+    400002: Antebrazo I
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.005
+    400014: Bone.009
+    400016: Bone.010
+    400018: Bone.016
+    400020: Bone.019
+    400022: Bone.024
+    400024: Bone.025
+    400026: Bone.025_end
+    400028: Bone.026
+    400030: Bone.026_end
+    400032: Brazo D
+    400034: Brazo I
+    400036: Camera
+    400038: Camera.001
+    400040: Cuello
+    400042: cuerpoMesh
+    400044: Esqueleto
+    400046: Esqueleto.001
+    400048: Esqueleto.002
+    400050: high-polyMesh
+    400052: Labio I
+    400054: Labio I_end
+    400056: Labio S
+    400058: Labio S_end
+    400060: Mano D
+    400062: Mano D_end
+    400064: Mano I
+    400066: Mano I_end
+    400068: Muslo D
+    400070: Muslo I
+    400072: Pierna D
+    400074: Pierna D.001
+    400076: Pierna D.002
+    400078: Pierna D.002_end
+    400080: Pierna I
+    400082: Pierna I.001
+    400084: Pierna I.002
+    400086: Pierna I.002_end
+    400088: //RootNode
+    400090: Sol
+    400092: teeth_baseMesh
+    400094: vestimentaFinalvs3.001
+    2000000: Camera
+    2000002: Camera.001
+    2100000: teeth_base
+    2100002: high-poly
+    2100004: cuerpo
+    2100006: Material16777.005
+    2100008: PT_FABRIC_FRONT_268164.002
+    2100010: PT_FABRIC_FRONT_272483.002
+    2300000: vestimentaFinalvs3.001
+    3300000: vestimentaFinalvs3.001
+    4300000: teeth_baseMesh
+    4300002: high-polyMesh
+    4300004: cuerpoMesh
+    4300006: vestimentaFinalvs3.001
+    7400000: Sol|Action
+    7400002: Sol|cuerpoMeshAction
+    7400004: Sol|high-polyMeshAction
+    7400006: Sol|SolAction
+    7400008: Sol|vestimentaFinalvs3.001Action
+    7400010: Esqueleto.001|Action
+    7400012: Esqueleto.001|cuerpoMeshAction
+    7400014: Esqueleto.001|Esqueleto.001Action
+    7400016: Esqueleto.001|high-polyMeshAction
+    7400018: Esqueleto.001|SolAction
+    7400020: Esqueleto.001|vestimentaFinalvs3.001Action
+    7400022: vestimentaFinalvs3.001|Action
+    7400024: vestimentaFinalvs3.001|cuerpoMeshAction
+    7400026: vestimentaFinalvs3.001|high-polyMeshAction
+    7400028: vestimentaFinalvs3.001|SolAction
+    7400030: vestimentaFinalvs3.001|vestimentaFinalvs3.001Action
+    9500000: //RootNode
+    10800000: Sol
+    13700000: cuerpoMesh
+    13700002: high-polyMesh
+    13700004: teeth_baseMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
