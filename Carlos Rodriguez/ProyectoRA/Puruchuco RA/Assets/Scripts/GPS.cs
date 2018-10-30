@@ -10,7 +10,7 @@ public class GPS : MonoBehaviour
     public bool activated = false;
     public bool RawEnabled = false;
 
-    int zoom = 19;
+    int zoom = 18;
     public int mapWidth = 680;
     public int mapHeight = 680;
 
@@ -119,7 +119,7 @@ public class GPS : MonoBehaviour
         url = "https://maps.googleapis.com/maps/api/staticmap?center=" + "-12.04940"  + "," + "-76.93608" +
             "&zoom=" + zoom + "&size=" + mapWidth + "x" + mapHeight + "&scale=" + scale
             + "&maptype=" + mapSelected +
-            "&markers=color:blue%7Clabel:Yo%7C" + latitude + "," + longitude + "&markers=color:green%7Clabel:1%7C-12.04967,-76.93633&markers=color:green%7Clabel:2%7C-12.04959,-76.93613,&markers=color:green%7Clabel:3%7C-12.04963,-76.93589,&markers=color:green%7Clabel:4%7C-12.04976,-76.93591,&markers=color:green%7Clabel:5%7C-12.04950,-76.93590&key=AIzaSyBEXlM7t_dyPJilVoLfD12nSvjMBSn0oqM";
+            "&markers=color:blue%7Clabel:Yo%7C" + latitude + "," + longitude + "&markers=color:green%7Clabel:1%7C-12.04967,-76.93633&markers=color:green%7Clabel:2%7C-12.04959,-76.93613&markers=color:green%7Clabel:3%7C-12.04963,-76.93589&markers=color:green%7Clabel:4%7C-12.04976,-76.93591&markers=color:green%7Clabel:5%7C-12.04950,-76.93590&key=AIzaSyBEXlM7t_dyPJilVoLfD12nSvjMBSn0oqM";
         WWW www = new WWW(url);
         yield return www;
         img.texture = www.texture;
